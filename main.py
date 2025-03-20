@@ -7,8 +7,8 @@ import pandas as pd
 import datetime as dt
 import csv
 
-email = "patrick.nuvvu@gmail.com"
-password = "rrcetpcbzhqsegmq"
+email = ""
+password = ""
 
 # 1. Update the birthdays.csv
 data = pd.read_csv("birthdays.csv")
